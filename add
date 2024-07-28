@@ -4,3 +4,4 @@ a=2
 b=3
 c=a+b
 
+then c=5
